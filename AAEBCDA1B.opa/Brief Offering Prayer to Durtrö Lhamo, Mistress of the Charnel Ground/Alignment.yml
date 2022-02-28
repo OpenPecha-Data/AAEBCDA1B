@@ -1,0 +1,19 @@
+segment_sources:
+  PB617E4F0:
+    type: origin_type
+    relation: translation
+    language: en
+  PB1F01C72:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  28bcbc9ab58848f192a012f6150302d7:
+    PB617E4F0: 352ff6c3b3d3407eb09dc06570d5f022
+    PB1F01C72: 00f23f3757b14fc49b4cc40e3a923e04
+  88995220197a470d9cc6360e72fcaf74:
+    PB617E4F0: 442c8f72e0e247b78bebf17eb9d08f82
+    PB1F01C72: 75e3b1f56e21440ca640cc2db7cd1f04
+  932a8dc0e8064701b29a1f754320fef1:
+    PB617E4F0: 6f55a7ecd388400a81ef4cbe81d1cb77
+    PB1F01C72: 69bcdee102564e93a5d5b2fcef47bc3d

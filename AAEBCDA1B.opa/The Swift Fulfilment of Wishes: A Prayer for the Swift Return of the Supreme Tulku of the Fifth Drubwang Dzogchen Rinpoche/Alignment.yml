@@ -1,0 +1,25 @@
+segment_sources:
+  PB617E4F0:
+    type: origin_type
+    relation: translation
+    language: en
+  PB1F01C72:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2e48d9d78a3e4455bb923151598ce1cf:
+    PB617E4F0: e00bef9817b74242b4ad387acb4566ee
+    PB1F01C72: e30e5618ecb8450aa0cc278069f31e4d
+  e3982e3e2639468c88401f40b414f3c1:
+    PB617E4F0: 1216f2fecdd94cde93f4ec624cb7d417
+    PB1F01C72: 2d5fa3f63fb2471599350a12395b7400
+  2eca3c0c6614480f806416954e0c8937:
+    PB617E4F0: 58d397b6c3ad4a34aede5b6caa2b81a5
+    PB1F01C72: 9e45e19d56ad404785400b9a1be4786a
+  eac02d1c16ae46879793c719412591c3:
+    PB617E4F0: 1422a92b9ba643fba9b9df9da84f873a
+    PB1F01C72: 8f07cb37d4fe46f4a22f5663637a9cda
+  3f11fae9c980474a86aae896a3d0f1b4:
+    PB617E4F0: 33eeeab6b37c43fead546e871196c4b2
+    PB1F01C72: f3520567448e4d9ba1ee2544fb5ed119
